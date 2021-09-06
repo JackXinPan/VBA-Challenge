@@ -17,8 +17,8 @@ VBScript and Screenshots for Week 2 Assignment
 
 # Output
 ### 2014
-![2014](images/StockOUtput2014.png)
+![2014](images/StockOutput2014.png)
 ### 2015
-![2015](images/StockOUtput2014.png)
+![2015](images/StockOutput2014.png)
 ### 2016
-![2016](images/StockOUtput2014.png)
+![2016](images/StockOutput2014.png)
